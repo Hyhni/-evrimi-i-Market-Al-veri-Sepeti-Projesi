@@ -1,0 +1,3 @@
+Elma,Meyve,10,50
+Nar,Meyve,11,50
+Armut,Meyve,6,110
